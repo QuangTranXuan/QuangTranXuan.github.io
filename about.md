@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I’m Quang Tran (Andrey)
+I'm from Hanoi, Vietnam. 
+A Java lover with extensive working experience in enterprise application using Java and related technologies.
+A relentless learner :) 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+👀 I’m interested in Backend Development, Cloud Engineering, Personal Improvement, History, Human Nature
+🌱 I’m currently learning Cloud Engineering, AEM, Microservices
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tranxuanquangls@gmail.com](mailto:tranxuanquangls@gmail.com)
